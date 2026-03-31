@@ -23,7 +23,9 @@ I am a passionate **Web Developer** who loves bridging the gap between clean cod
 ---
 
 ## 📊 GitHub Activity
-![Mofeyisara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Feyisara-O&show_icons=true&theme=radical&hide_border=true)
+![Mofeyisara's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Feyisara-O&show_icons=true&theme=radical&hide_border=true)
+
+![Mofeyisara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Feyisara-O&theme=radical&hide_border=true)
 
 ---
 
